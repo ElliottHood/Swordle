@@ -1,0 +1,15 @@
+{
+    "name": "Swordle",
+    "short_name": "Swordle",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#121213",
+    "theme_color": "#000",
+    "description": "Wordle - Versus edition",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
