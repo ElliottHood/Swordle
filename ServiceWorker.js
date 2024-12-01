@@ -1,9 +1,9 @@
 const cacheName = "ShellterStudios-Swordle-1.0";
 const contentToCache = [
     "Build/Swordle.loader.js",
-    "Build/Swordle.framework.js.gz",
-    "Build/Swordle.data.gz",
-    "Build/Swordle.wasm.gz",
+    "Build/Swordle.framework.js",
+    "Build/Swordle.data",
+    "Build/Swordle.wasm",
     "TemplateData/style.css"
 
 ];
